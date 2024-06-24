@@ -1,0 +1,7 @@
+unstructured
+pypdf
+docx
+langchain
+markdown
+fastapi
+python-dotenv
